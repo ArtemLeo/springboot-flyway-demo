@@ -5,7 +5,6 @@
 <h2>🟠 ▪️ Add the schema of the tables we have in the example database</h2>
 <h2>🟠 This way we learn how to work with Flyway👍</h2>
 <h3><a href="https://javarush.com/groups/posts/3157-java-proekt-ot-a-do-ja-springboot--flyway'><strong>SpringBoot + Flyway »</strong></a></h3>
-<img src="README images/0.png" alt="Logo">
 <img src="README images/1.png" alt="Logo">
 <img src="README images/2.png" alt="Logo">
 <img src="README images/3.png" alt="Logo">
